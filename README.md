@@ -1,1 +1,1 @@
-# AzureLighthouse
+# Azure Lighthouse
